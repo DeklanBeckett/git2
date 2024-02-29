@@ -10,7 +10,8 @@
     Foreign Key (usuariokey) REFERENCES datos_del_usuario(id),
     Foreign Key (duenokey) REFERENCES dueno_del_vehiculo(id)
 );
-funciona
+te equivocaste , no funcionó
+
 
 
 CREATE TABLE datos_del_usuario(
