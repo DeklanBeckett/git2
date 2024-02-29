@@ -10,6 +10,8 @@
     Foreign Key (usuariokey) REFERENCES datos_del_usuario(id),
     Foreign Key (duenokey) REFERENCES dueno_del_vehiculo(id)
 );
+funciona
+
 
 CREATE TABLE datos_del_usuario(
     id INT(11) PRIMARY key AUTO_INCREMENT NOT NULL,
