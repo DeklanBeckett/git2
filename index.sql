@@ -10,7 +10,7 @@
     Foreign Key (usuariokey) REFERENCES datos_del_usuario(id),
     Foreign Key (duenokey) REFERENCES dueno_del_vehiculo(id)
 );
-te equivocaste , no funcionó
+te equivocaste , no funcionó, mentiroso
 
 
 
